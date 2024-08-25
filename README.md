@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center"> Hi there, i'm Wenchang Deng  </h1>
+<h3 align="center">🚀 AI researcher | FullStack Developer 🚀</h3>
 
-<!--
-**arrogant-R/arrogant-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 my stack:
+language:
+- Python
+- Java
+- C++
 
-Here are some ideas to get you started:
+full stack:
+- mysql
+- flask
+- springboot
+- vue3
+- HTML & CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+research tools:
+- pytorch
+- tensorflow
+- matlab
+
+### 👧 a little about myself:
+
+- 🎓 Postgraduate student, majoring in Artificial Intelligence in Shenzhen University.
+- 👀 I'm currently focusing on **research on EEG signal processing and decoding**.
+- I ❤️ to think, learn, and music！And I'm a little too addicted to juice.
+ 
